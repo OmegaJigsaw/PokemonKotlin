@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "965770766451",
+    "firebase_url": "https://inacap-1cc0b-default-rtdb.firebaseio.com",
+    "project_id": "inacap-1cc0b",
+    "storage_bucket": "inacap-1cc0b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965770766451:android:69ff31f796c5a29f896206",
+        "android_client_info": {
+          "package_name": "com.example.class_u2_01"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeT3Z3K4DHhlI09FwxCKUMvYATuktucIo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965770766451:android:dafaa037e38f2924896206",
+        "android_client_info": {
+          "package_name": "com.example.pokemon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeT3Z3K4DHhlI09FwxCKUMvYATuktucIo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

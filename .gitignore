@@ -1,0 +1,21 @@
+# Archivos de IntelliJ/Android Studio
+*.iml
+.gradle
+/local.properties
+
+# Directorios de configuración de Android Studio
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+
+# Otros archivos del sistema
+.DS_Store                      # Archivos de metadatos de macOS
+
+# Archivos generados
+/build
+/captures
+.externalNativeBuild
+.cxx
